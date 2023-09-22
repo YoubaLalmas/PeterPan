@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Squidish {
+  background-image: url("./public/blue.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
